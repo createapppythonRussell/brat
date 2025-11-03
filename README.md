@@ -16,4 +16,4 @@
 proot-distro install ubuntu
 ```
 
-(мой telegram канал)[telegram.com/@userlxml]
+[мой telegram канал](telegram.com/@userlxml)
